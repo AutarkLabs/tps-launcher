@@ -178,20 +178,20 @@ class StartContent extends React.PureComponent {
           >
             {smallMode
               ? 'Find an existing organization'
-              : 'Create a Planning Suite DAO'}
+              : 'Create an Open Enterprise DAO'}
           </Text>
         </Title>
 
         <p>
           <Text size="large" color={theme.textSecondary}>
-            That Planning Suite is a suite of applications for Aragon that
+            Open Enterprise is a suite of applications for Aragon that
             provides payout, budgeting, and collaboration tools to supercharge
             worker-owned organizations.
             <br />
             <br />
             With this template, you can create a new Rinkeby organization that
             comes with the core Aragon apps: Voting, Finance, Token Manager,
-            Vault, in addition to the Planning Suite apps: Address Book,
+            Vault, in addition to the Open Enterprise apps: Address Book,
             Allocations, Dot Voting, Projects and Rewards.{' '}
           </Text>
         </p>
