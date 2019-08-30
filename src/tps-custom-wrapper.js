@@ -40,7 +40,7 @@ const templates = {
   },
   tps: {
     name: 'That Planning Suite',
-    appId: 'tps.open.aragonpm.eth',
+    appId: 'tps-demo.open.aragonpm.eth',
     // TODO: manage both environments? staging and rinkeby
     // appId: 'planning-suite-staging.open.aragonpm.eth',
   },
